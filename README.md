@@ -11,6 +11,9 @@ Features:
  - Tuversion /tuversion               Shows the Plugin Version.
  - About /about                       Shows the Plugin Autor.
  
+Latest Changes:
+ - /lag shows now also the Servers TPS in Percentage
+ - changed the output of /lag
   
   
   MIT LICENSE 2022©
