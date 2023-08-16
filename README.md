@@ -16,5 +16,7 @@ Latest Changes:
  - changed the output of /lag
   
   
-  MIT LICENSE 2022©
+  MIT LICENSE 2023©
   Traxon_LP
+
+  This Project is set on hold! But this can change any time!
